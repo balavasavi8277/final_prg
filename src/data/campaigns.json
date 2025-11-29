@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "title": "Equal Pay Initiative",
+    "description": "Campaign focused on closing the gender pay gap across all industries.",
+    "category": "Workplace Equality",
+    "status": "Active",
+    "startDate": "2024-01-15",
+    "participants": 12500,
+    "image": "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=400"
+  },
+  {
+    "id": 2,
+    "title": "Education for All Girls",
+    "description": "Ensuring every girl has access to quality education and equal opportunities.",
+    "category": "Education",
+    "status": "Active",
+    "startDate": "2023-09-01",
+    "participants": 32000,
+    "image": "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=400"
+  },
+  {
+    "id": 3,
+    "title": "Women in Leadership",
+    "description": "Promoting women's representation in leadership positions across sectors.",
+    "category": "Leadership",
+    "status": "Active",
+    "startDate": "2024-03-01",
+    "participants": 8500,
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=400"
+  },
+  {
+    "id": 4,
+    "title": "Safe Spaces Campaign",
+    "description": "Creating safe and inclusive spaces for all genders in public and private sectors.",
+    "category": "Safety",
+    "status": "Active",
+    "startDate": "2024-02-10",
+    "participants": 15200,
+    "image": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=400"
+  },
+  {
+    "id": 5,
+    "title": "Healthcare Access",
+    "description": "Improving healthcare accessibility and awareness for women and marginalized genders.",
+    "category": "Healthcare",
+    "status": "Active",
+    "startDate": "2023-11-20",
+    "participants": 18500,
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400"
+  },
+  {
+    "id": 6,
+    "title": "Digital Inclusion",
+    "description": "Bridging the digital gender gap and promoting tech skills among women.",
+    "category": "Technology",
+    "status": "Active",
+    "startDate": "2024-01-05",
+    "participants": 9800,
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400"
+  }
+]
+

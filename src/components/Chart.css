@@ -1,0 +1,15 @@
+.recharts-wrapper {
+  margin: 0 auto;
+}
+
+.recharts-tooltip-wrapper {
+  outline: none;
+}
+
+@media (max-width: 768px) {
+  .recharts-surface {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+

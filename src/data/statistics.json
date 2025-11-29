@@ -1,0 +1,37 @@
+{
+  "overview": {
+    "totalCampaigns": 6,
+    "activeParticipants": 96500,
+    "resourcesAvailable": 8,
+    "satisfactionRate": 92
+  },
+  "genderDistribution": [
+    { "name": "Women", "value": 58, "color": "#8884d8" },
+    { "name": "Men", "value": 35, "color": "#82ca9d" },
+    { "name": "Non-binary", "value": 5, "color": "#ffc658" },
+    { "name": "Prefer not to say", "value": 2, "color": "#ff7300" }
+  ],
+  "campaignProgress": [
+    { "name": "Equal Pay", "progress": 78 },
+    { "name": "Education", "progress": 85 },
+    { "name": "Leadership", "progress": 65 },
+    { "name": "Safe Spaces", "progress": 72 },
+    { "name": "Healthcare", "progress": 80 },
+    { "name": "Digital Inclusion", "progress": 68 }
+  ],
+  "resourceDownloads": [
+    { "month": "Jan", "downloads": 1200 },
+    { "month": "Feb", "downloads": 1800 },
+    { "month": "Mar", "downloads": 2100 },
+    { "month": "Apr", "downloads": 1900 },
+    { "month": "May", "downloads": 2400 },
+    { "month": "Jun", "downloads": 2800 }
+  ],
+  "impactMetrics": [
+    { "metric": "Policies Implemented", "value": 45, "icon": "📋" },
+    { "metric": "Training Sessions", "value": 320, "icon": "🎓" },
+    { "metric": "Awareness Events", "value": 180, "icon": "📢" },
+    { "metric": "Communities Reached", "value": 250, "icon": "🌍" }
+  ]
+}
+
