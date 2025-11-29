@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "title": "Gender Equality Policy Framework",
+    "type": "Document",
+    "category": "Policy",
+    "description": "Comprehensive policy framework for implementing gender-responsive mechanisms.",
+    "link": "#",
+    "downloads": 4500
+  },
+  {
+    "id": 2,
+    "title": "Best Practices Guide",
+    "type": "Guide",
+    "category": "Implementation",
+    "description": "A practical guide with best practices for gender-responsive programming.",
+    "link": "#",
+    "downloads": 3200
+  },
+  {
+    "id": 3,
+    "title": "Training Module: Gender Mainstreaming",
+    "type": "Training",
+    "category": "Education",
+    "description": "Interactive training module for understanding gender mainstreaming principles.",
+    "link": "#",
+    "downloads": 6800
+  },
+  {
+    "id": 4,
+    "title": "Impact Assessment Toolkit",
+    "type": "Toolkit",
+    "category": "Assessment",
+    "description": "Tools and templates for assessing gender impact of programs and policies.",
+    "link": "#",
+    "downloads": 2900
+  },
+  {
+    "id": 5,
+    "title": "Case Studies Collection",
+    "type": "Research",
+    "category": "Case Studies",
+    "description": "Real-world case studies showcasing successful gender-responsive initiatives.",
+    "link": "#",
+    "downloads": 5100
+  },
+  {
+    "id": 6,
+    "title": "Legal Framework Overview",
+    "type": "Document",
+    "category": "Legal",
+    "description": "Overview of national and international legal frameworks for gender equality.",
+    "link": "#",
+    "downloads": 3700
+  },
+  {
+    "id": 7,
+    "title": "Data Collection Templates",
+    "type": "Template",
+    "category": "Data",
+    "description": "Standardized templates for gender-disaggregated data collection.",
+    "link": "#",
+    "downloads": 4200
+  },
+  {
+    "id": 8,
+    "title": "Awareness Campaign Materials",
+    "type": "Media",
+    "category": "Awareness",
+    "description": "Ready-to-use materials for gender equality awareness campaigns.",
+    "link": "#",
+    "downloads": 5600
+  }
+]
+
