@@ -1,10 +1,14 @@
 {
+<<<<<<< HEAD
   "homepage":"https://github.com/balavasavi8277/final_prg.git",
+=======
+>>>>>>> 52409dcd65a3fc73b72b94138137d1d2207a4c78
   "name": "gender-responsive-mechanism",
   "version": "1.0.0",
   "description": "Gender Responsive Mechanism Frontend",
   "private": true,
   "dependencies": {
+<<<<<<< HEAD
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "react": "^18.2.0",
@@ -12,13 +16,25 @@
     "react-router-dom": "^6.20.0",
     "react-scripts": "5.0.1",
     "recharts": "^2.10.3"
+=======
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.0",
+    "recharts": "^2.10.3",
+    "react-scripts": "5.0.1",
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+>>>>>>> 52409dcd65a3fc73b72b94138137d1d2207a4c78
   },
   "scripts": {
     "start": "react-scripts start",
     "dev": "react-scripts start",
     "build": "react-scripts build",
+<<<<<<< HEAD
      "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
+=======
+>>>>>>> 52409dcd65a3fc73b72b94138137d1d2207a4c78
     "server": "node server.js",
     "start:prod": "npm run build && node server.js",
     "test": "react-scripts test",
@@ -44,8 +60,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
 }
+=======
+  }
+}
+
+>>>>>>> 52409dcd65a3fc73b72b94138137d1d2207a4c78
