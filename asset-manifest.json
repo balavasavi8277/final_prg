@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/final_prg/static/css/main.d91eb7eb.css",
+    "main.js": "/final_prg/static/js/main.a435b0df.js",
+    "index.html": "/final_prg/index.html",
+    "main.d91eb7eb.css.map": "/final_prg/static/css/main.d91eb7eb.css.map",
+    "main.a435b0df.js.map": "/final_prg/static/js/main.a435b0df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d91eb7eb.css",
+    "static/js/main.a435b0df.js"
+  ]
+}
